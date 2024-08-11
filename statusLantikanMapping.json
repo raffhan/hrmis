@@ -1,6 +1,6 @@
 {
-    "01": "Lantikan Tetap",
-    "02": "Lantikan Sementara",
-    "03": "Lantikan Kontrak"
+    "1": "Lantikan Tetap",
+    "2": "Lantikan Sementara",
+    "3": "Lantikan Kontrak"
     // Add other mappings as needed
 }
