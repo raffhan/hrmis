@@ -32983,5 +32983,111 @@
       "ConfirmStatusCd": "09",
       "ConfirmStatusNm": "Tempoh Percubaan Dibekukan"
     }
+  ],
+  "KodStatusSandangan": [
+    {
+      "EngmtStatusCd": "01",
+      "EngmtStatusTitle": "Sandangan Tetap"
+    },
+    {
+      "EngmtStatusCd": "02",
+      "EngmtStatusTitle": "Sandangan Tukar Sementara"
+    },
+    {
+      "EngmtStatusCd": "03",
+      "EngmtStatusTitle": "Memangku"
+    },
+    {
+      "EngmtStatusCd": "04",
+      "EngmtStatusTitle": "Memangku Bukan Dengan Tujuan Naik Pangkat"
+    },
+    {
+      "EngmtStatusCd": "06",
+      "EngmtStatusTitle": "Sandangan Khas Untuk Penyandang"
+    },
+    {
+      "EngmtStatusCd": "07",
+      "EngmtStatusTitle": "Memangku KUP BTNP (sandang gred lebih tinggi)"
+    },
+    {
+      "EngmtStatusCd": "08",
+      "EngmtStatusTitle": "Memangku KUP (sandang gred lebih tinggi)"
+    },
+    {
+      "EngmtStatusCd": "09",
+      "EngmtStatusTitle": "Sandangan Sementara Kerana Pinjaman"
+    },
+    {
+      "EngmtStatusCd": "10",
+      "EngmtStatusTitle": "Sandangan Kontrak"
+    },
+    {
+      "EngmtStatusCd": "11",
+      "EngmtStatusTitle": "Sandangan Guru Sandaran Terlatih"
+    },
+    {
+      "EngmtStatusCd": "12",
+      "EngmtStatusTitle": "Sandangan Guru Sandaran Tidak Terlatih"
+    },
+    {
+      "EngmtStatusCd": "20",
+      "EngmtStatusTitle": "Sandangan Tetap dan Tidak Berpencen"
+    },
+    {
+      "EngmtStatusCd": "21",
+      "EngmtStatusTitle": "Sandangan Sementara"
+    },
+    {
+      "EngmtStatusCd": "22",
+      "EngmtStatusTitle": "Sandangan Jawatan Berasaskan Caruman"
+    },
+    {
+      "EngmtStatusCd": "23",
+      "EngmtStatusTitle": "Sandangan Peminjaman"
+    },
+    {
+      "EngmtStatusCd": "24",
+      "EngmtStatusTitle": "Sandangan Dikosongkan Kerana PCF"
+    },
+    {
+      "EngmtStatusCd": "25",
+      "EngmtStatusTitle": "Sandangan Diisi Kerana PCF"
+    },
+    {
+      "EngmtStatusCd": "26",
+      "EngmtStatusTitle": "Sandangan Penempatan Khas"
+    },
+    {
+      "EngmtStatusCd": "27",
+      "EngmtStatusTitle": "Sandangan Jawatan Kumpulan"
+    },
+    {
+      "EngmtStatusCd": "28",
+      "EngmtStatusTitle": "Sandangan Jawatan Kumpulan Bertempoh"
+    },
+    {
+      "EngmtStatusCd": "29",
+      "EngmtStatusTitle": "Sandangan Jawatan Latihan (P&P)"
+    },
+    {
+      "EngmtStatusCd": "30",
+      "EngmtStatusTitle": "Sandangan Jawatan Latihan (Pelaksana)"
+    },
+    {
+      "EngmtStatusCd": "31",
+      "EngmtStatusTitle": "Sandangan Tetap (Lokasi Khas)"
+    },
+    {
+      "EngmtStatusCd": "32",
+      "EngmtStatusTitle": "Sandangan Khas Untuk Penyandang (Memangku)"
+    },
+    {
+      "EngmtStatusCd": "33",
+      "EngmtStatusTitle": "Khas Untuk Penyandang Jawatan (KUPJ)"
+    },
+    {
+      "EngmtStatusCd": "34",
+      "EngmtStatusTitle": "Khas Untuk Penyandang Jawatan(KUPJ)(Memangku)"
+    }
   ]
 }
